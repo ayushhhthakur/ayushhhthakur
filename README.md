@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**, **Nodejs**
 
-- 👨‍💻 All of my projects are available at [https://ayush-thakur.netlify.app/](https://ayush-thakur.netlify.app/)
+- 👨‍💻 Checkout my portfolio here 👉 [Ayush Thakur](https://ayush-thakur.netlify.app/)
 
 - 📄 Know about my experiences [https://ayush-thakur.netlify.app/assets/resume/2023_New/Resume.pdf](https://ayush-thakur.netlify.app/assets/resume/2023_New/Resume.pdf)
 
