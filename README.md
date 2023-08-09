@@ -5,7 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushhhthakur" alt="ayushhhthakur" /></a> </p>
 
-- 🔭 I’m currently working on [CryptoPLay](https://github.com/ayushhhthakur/TezAsia-2k23)
+- 🔭 I’m currently working on [CryptoPLay](https://cryptoplay.netlify.app/)
+
+- 🌱 I’m currently learning **React, Nodejs**
+
+- 👯 I’m looking to collaborate on [Spotify Clone](https://soptify-playlist.netlify.app/)
+
+- 👨‍💻 All of my projects are available at [https://ayush-thakur.netlify.app/](https://ayush-thakur.netlify.app/)
+
+- 📄 Know about my experiences [https://ayush-thakur.netlify.app/assets/resume/2023_New/Resume.pdf](https://ayush-thakur.netlify.app/assets/resume/2023_New/Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
