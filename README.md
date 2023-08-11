@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Thakur</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushhhthakur&theme=onedark&label=Profile%20views&color=0e75b6&style=flat" alt="ayushhhthakur" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushhhthakur&theme=onedark&label=Profile%20views" alt="ayushhhthakur" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushhhthakur" alt="ayushhhthakur" /></a> </p>
 
