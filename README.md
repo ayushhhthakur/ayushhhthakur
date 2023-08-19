@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayush Thakur</h1>
+<h1 align="center">Hey 👋, I'm Ayush Thakur</h1>
 <h3 align="center">A passionate frontend/backend developer from India</h3>
 
   <img src="https://komarev.com/ghpvc/?username=ayushhhthakur&label=Profile%20views&color=0e75b6&style=flat&exclude_self=true" alt="Profile views" />
