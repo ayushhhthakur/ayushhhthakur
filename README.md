@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [CryptoPLay](https://cryptoplay.netlify.app/), [Spotify Clone](https://playlists-spotify.netlify.app/)
 
-- 🌱 I’m currently learning **React**, **Nodejs**
+- 🌱 Learning **React**, **Nodejs**
 
 - 👨‍💻 Checkout my portfolio here 👉 [Ayush Thakur](https://ayush-thakur.netlify.app/)
 
