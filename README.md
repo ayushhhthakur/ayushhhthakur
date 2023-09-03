@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushhhthakur&theme=onedark" alt="ayushhhthakur" /></a> </p>
 
-- 🔭 I’m currently working on [CryptoPLay](https://cryptoplay.netlify.app/), [Vibe](https://playlists-spotify.netlify.app/)
+- 🔭 I’m currently working on [Rent-A-Ride](https://github.com/ayushhhthakur/Rent-a-Ride) & [CryptoPLay](https://cryptoplay.netlify.app/)
 
 - 🌱 Learning **React**, **Nodejs**
 
