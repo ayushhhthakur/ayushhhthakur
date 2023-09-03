@@ -11,7 +11,7 @@
 
 - 👨‍💻 Checkout my portfolio here 👉 [Ayush Thakur](https://ayush-thakur.netlify.app/)
 
-- 📄 Know about my experiences [Resume](https://ayush-thakur.netlify.app/assets/resume/2023_New/Resume.pdf)
+- 📄 Know about my experiences [Resume](https://ayush-thakur-port.netlify.app/assets/resume/2023_New/Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
