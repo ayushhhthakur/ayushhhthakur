@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushhhthakur&theme=onedark" alt="ayushhhthakur" /></a> </p>
 
-- 🔭 I’m currently working on [RentRally](https://github.com/ayushhhthakur/Rent-a-Ride) & [CryptoPLay](https://cryptoplay.netlify.app/)
+- 🔭 I’m currently working on [Udaan](https://github.com/ayushhhthakur/Udaan) & [RentRally](https://github.com/ayushhhthakur/RentRally)
 
 - 🌱 Learning **React**, **Nodejs**
 
