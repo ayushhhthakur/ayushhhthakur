@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! 👋</h1>
 <h2 align="center">I'm Ayush Thakur, a Full Stack Developer with a passion for crafting seamless experiences.</h2>
 <iframe src="https://giphy.com/embed/kWQF8L5SN1iCmAPJez" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/xbox-xbox-series-x-indie-gaming-norco-kWQF8L5SN1iCmAPJez">via GIPHY</a></p>
-
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZjM2VodTQzcjNicjQ0cXRtZ2IxZnY3ZHc3eWc5eWdodHJtOXozayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kWQF8L5SN1iCmAPJez/giphy.gif" alt="GIF"/>
 <img src="https://komarev.com/ghpvc/?username=ayushhhthakur&label=Profile%20views&color=0e75b6&style=flat&exclude_self=true" alt="Profile views" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushhhthakur&theme=onedark" alt="ayushhhthakur" /></a> </p>
