@@ -1,6 +1,5 @@
 <h1 align="center">Hello there! 👋</h1>
 <h2 align="center">I'm Ayush Thakur, a Full Stack Developer with a passion for crafting seamless experiences.</h2>
-<img src="video.mp4" alt="Profile video"/>
 
 <img src="https://komarev.com/ghpvc/?username=ayushhhthakur&label=Profile%20views&color=0e75b6&style=flat&exclude_self=true" alt="Profile views" />
 
