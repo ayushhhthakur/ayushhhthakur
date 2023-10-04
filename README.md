@@ -2,7 +2,7 @@
 <h2 align="center">I'm Ayush Thakur, a Full Stack Developer with a passion for crafting seamless experiences.</h2>
 <img src="/video" alt="Profile video"/>
 
-<img src="https://www.canva.com/design/DAFwThGSrAE/JhRPLQxEjJZ42DRBJayVhA/watch?utm_content=DAFwThGSrAE&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=ayushhhthakur&label=Profile%20views&color=0e75b6&style=flat&exclude_self=true" alt="Profile views" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushhhthakur&theme=onedark" alt="ayushhhthakur" /></a> </p>
 
