@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Udaan](https://github.com/ayushhhthakur/Udaan) and [RentRally](https://github.com/ayushhhthakur/RentRally)
   
-- 🌱 Learning **React**, **Nodejs**
+- 🌱 Learning **React**, **Nodejs**, **Vue** ...
 
 - 👨‍💻 Checkout my portfolio here 👉 [Ayush Thakur](https://ayush-thakur.netlify.app/)
 
