@@ -1,4 +1,3 @@
-<img src="https://komarev.com/ghpvc/?username=ayushhhthakur&label=Profile%20views&color=0e75b6&style=flat&exclude_self=true" alt="Profile views" />
 <h1 align="center">Hi 👋, I'm Ayush Thakur</h1>
 <h3 align="center">Full Stack Web Developer and DevOps Engineer</h3>
 
