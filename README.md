@@ -9,7 +9,8 @@
 ## Irreverent humor
 Had to dash out of the library quickly; turns out, I accidentally misplaced the cookbooks in the women's sports section.
 
-## 
+## Work & Skills
+
 - 🔭 I’m currently working on [The Pinnacle Overseas](https://github.com/ayushhhthakur/ThePinnacleJammu) and [Campus Weather Insight](https://github.com/ayushhhthakur/CampusWeatherInsight)
 
 - 🌱 I’m currently learning **VUE, NodeJS**
