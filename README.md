@@ -6,7 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushhhthakur" alt="ayushhhthakur" /></a> </p>
 
-- 🔭 I’m currently working on [RentRally](https://github.com/ayushhhthakur/RentRally)
+## Irreverent humor
+Had to dash out of the library quickly; turns out, I accidentally misplaced the cookbooks in the women's sports section.
+
+## 
+- 🔭 I’m currently working on [The Pinnacle Overseas](https://github.com/ayushhhthakur/ThePinnacleJammu) and [Campus Weather Insight](https://github.com/ayushhhthakur/CampusWeatherInsight)
 
 - 🌱 I’m currently learning **VUE, NodeJS**
 
@@ -25,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushhhthakur&show_icons=true&locale=en" alt="ayushhhthakur" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushhhthakur&" alt="ayushhhthakur" /></p>
+
+
