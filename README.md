@@ -7,19 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushhhthakur" alt="ayushhhthakur" /></a> </p>
 
 ## Irreverent humor
-Had to dash out of the library quickly; turns out, I accidentally misplaced the cookbooks in the women's sports section.
-
-## Work & Skills
-
-- 🔭 I’m currently working on [The Pinnacle Overseas](https://github.com/ayushhhthakur/ThePinnacleJammu) and [Campus Weather Insight](https://github.com/ayushhhthakur/CampusWeatherInsight)
-
-- 🌱 I’m currently learning **VUE, NodeJS**
-
-- 👯 I’m looking to collaborate on [NAT](https://github.com/ayushhhthakur/NAT)
-
-- 👨‍💻 Visit my portfolio at [https://ayushthakur.me/](https://ayushthakur.me/)
-
-- 💬 Ask me about **React**
+Had to dash out of the library quickly; turns out, I accidentally misplaced the cookbooks in the women's sports secti
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushhhthakur&show_icons=true&locale=en&layout=compact" alt="ayushhhthakur" /></p>
