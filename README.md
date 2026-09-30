@@ -30,35 +30,6 @@
 
 <!-- Trim the badges above to only what you actually use -->
 
----
-
-### 🏅 Certifications
-
-| Certification | Issuer | Year |
-|---|---|---|
-| 🔹 Your Cert Name | Issuer | 20XX |
-| 🔹 Your Cert Name | Issuer | 20XX |
-| 🔹 Your Cert Name | Issuer | 20XX |
-
-<!-- Add credential links like: [Verify](https://...) -->
-
----
-
-### 🔧 Featured projects
-
-#### 🤖 J Bot
-One-line description of what J Bot does.
-`Tech · Tech · Tech` &nbsp;|&nbsp; [Repo](#)
-
-#### 🍯 HoneyGuard
-One-line description of what HoneyGuard does.
-`Tech · Tech · Tech` &nbsp;|&nbsp; [Repo](#)
-
-#### 🔹 Another project
-One-line description.
-`Tech · Tech · Tech` &nbsp;|&nbsp; [Repo](#)
-
----
 
 ### 📊 GitHub stats
 
