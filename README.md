@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1a2e&height=200&section=header&text=Ayush%20Thakur&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=I%20ship%20products%2C%20not%20just%20code&descAlignY=58&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1a2e&height=200&section=header&text=Ayush%20Thakur&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20%7C%20Security&descAlignY=58&descSize=18" width="100%" alt="header" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DevOps+Engineer;Founder+%26+Product+Builder;Turning+ideas+into+live+SaaS)](https://github.com/ayushhhthakur)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+%26+DevOps+Engineer;Automation+%26+Security+Tooling)](https://github.com/ayushhhthakur)
 
 ![Profile views](https://komarev.com/ghpvc/?username=ayushhhthakur&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -10,46 +10,53 @@
 
 ---
 
-### 🧭 About me
-
-I'm a developer who also runs businesses, so I care about the full loop: **design → build → deploy → market → iterate.** Frontend, backend, infra, and the ads that bring users in. I do all of it.
-
-- 🚀 Building **SaaS products** from database schema to production deploy
-- 🛍️ Running an **e-commerce skincare brand** end to end
-- 🔐 Big on **multi-tenant architecture, Postgres RLS, and clean APIs**
-- ⚡ Prefer shipping a working v1 over debating a perfect v3
-
----
-
-### 🛠️ What I'm building
-
-| Project | What it is | Stack |
-|---|---|---|
-| **Teamify** | B2B project management platform for teams | Supabase, Node, React |
-| **GymStack** | Multi-tenant gym management SaaS with admin dashboard | Supabase (Postgres + RLS), React |
-| **SarinSkin** | Mobile commerce app with Shopify integration | React Native, Expo, NestJS, Prisma |
-| **Redefine Roots** | Skincare & hair care D2C brand | Shopify, Meta Ads |
-
----
-
-### 🧰 Tech stack
+### ☁️ Cloud & DevOps profile
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
+
+<!-- Trim the badges above to only what you actually use -->
+
+---
+
+### 🏅 Certifications
+
+| Certification | Issuer | Year |
+|---|---|---|
+| 🔹 Your Cert Name | Issuer | 20XX |
+| 🔹 Your Cert Name | Issuer | 20XX |
+| 🔹 Your Cert Name | Issuer | 20XX |
+
+<!-- Add credential links like: [Verify](https://...) -->
+
+---
+
+### 🔧 Featured projects
+
+#### 🤖 J Bot
+One-line description of what J Bot does.
+`Tech · Tech · Tech` &nbsp;|&nbsp; [Repo](#)
+
+#### 🍯 HoneyGuard
+One-line description of what HoneyGuard does.
+`Tech · Tech · Tech` &nbsp;|&nbsp; [Repo](#)
+
+#### 🔹 Another project
+One-line description.
+`Tech · Tech · Tech` &nbsp;|&nbsp; [Repo](#)
 
 ---
 
@@ -66,12 +73,10 @@ I'm a developer who also runs businesses, so I care about the full loop: **desig
 
 ---
 
-### 🤝 Let's connect
+### 🤝 Connect
 
 <div align="center">
 
-<!-- Replace the # links with your real ones -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
